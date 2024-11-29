@@ -43,7 +43,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NỘI DUNG"
+            android:text="phan công quốc"
             android:layout_marginTop="70dp"
             android:textSize="50dp"
             android:background="@drawable/editview"/>
@@ -64,9 +64,9 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NỘI DUNG"
+            android:text="22115053122134"
             android:layout_marginTop="70dp"
-            android:textSize="50dp"
+            android:textSize="40dp"
             android:background="@drawable/editview"/>
     </LinearLayout>
 
